@@ -160,7 +160,7 @@ jQuery(document).ready(function(){
             perspectiveorigin:"bottom"
         },
         fade: {
-            duration:1000,
+            duration:2000,
             easing:"easeOutCubic",
             checked:true
         },
