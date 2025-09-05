@@ -160,12 +160,12 @@ jQuery(document).ready(function(){
             perspectiveorigin:"bottom"
         },
         fade: {
-            duration:2000,
+            duration:1000,
             easing:"easeOutCubic",
             checked:true
         },
         shuffle: {
-            duration:1500,
+            duration:1000,
             easing:"easeOutCubic",
             columncount:5,
             checked:true,
@@ -176,7 +176,7 @@ jQuery(document).ready(function(){
             bgcolor:"#222222",
             perspective:1000,
             slicecount:5,
-            duration:1500,
+            duration:1000,
             easing:"easeOutCubic",
             fallback:"slice",
             scatter:5,
