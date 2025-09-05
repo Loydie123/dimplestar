@@ -93,7 +93,7 @@ jQuery(document).ready(function(){
         ribbonimagey:0,
         ribbonimagex:0,
         shadowsize:5,
-        arrowhideonmouseleave:1000,
+        arrowhideonmouseleave:1500,
         navopacity:0.8,
         backgroundimagewidth:120,
         navcolor:"#333333",
@@ -124,7 +124,7 @@ jQuery(document).ready(function(){
         navthumbtitlecss:"display:block;position:relative;padding:2px 4px;text-align:left;font:bold 14px Arial,Helvetica,sans-serif;color:#333;",
         textpositionmarginbottom:24,
         slice: {
-            duration:1500,
+            duration:1000,
             easing:"easeOutCubic",
             checked:true,
             effects:"up,down,updown",
